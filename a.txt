@@ -1,2 +1,2 @@
 birinchi am'lumot
-o'zgartirildi
+o'zgartirildi server tomondan GitHub
